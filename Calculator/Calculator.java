@@ -120,7 +120,7 @@ public class Calculator {
             }
         }
 
-        //print the result
+        
         for(TermElement t : elements)
         {
             if(t != null)
